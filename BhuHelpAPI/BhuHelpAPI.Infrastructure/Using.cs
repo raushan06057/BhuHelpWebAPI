@@ -1,0 +1,17 @@
+﻿global using BhuHelpAPI.Domain.Entity;
+global using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using BhuHelpAPI.Domain.Common;
+global using BhuHelpAPI.Infrastructure.Data;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.AspNetCore.Identity;
+global using BhuHelpAPI.Domain.IRepositories;
+global using System.Linq.Expressions;
+global using Microsoft.IdentityModel.Tokens;
+global using System.IdentityModel.Tokens.Jwt;
+global using System.Security.Claims;
+global using System.Text;
+global using BhuHelpAPI.Infrastructure.Repositories;
+global using BhuHelpAPI.Infrastructure.Repositories;

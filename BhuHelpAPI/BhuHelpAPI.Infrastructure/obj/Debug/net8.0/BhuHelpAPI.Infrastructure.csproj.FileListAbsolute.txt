@@ -1,0 +1,54 @@
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infracture\bin\Debug\net8.0\BhuHelpAPI.Infrastructure.deps.json
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infracture\bin\Debug\net8.0\BhuHelpAPI.Infrastructure.runtimeconfig.json
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infracture\bin\Debug\net8.0\BhuHelpAPI.Infrastructure.dll
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infracture\bin\Debug\net8.0\BhuHelpAPI.Infrastructure.pdb
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infracture\bin\Debug\net8.0\BhuHelpAPI.Domain.dll
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infracture\bin\Debug\net8.0\BhuHelpAPI.Domain.pdb
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infracture\obj\Debug\net8.0\BhuHelpAPI.Infrastructure.csproj.AssemblyReference.cache
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infracture\obj\Debug\net8.0\BhuHelpAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infracture\obj\Debug\net8.0\BhuHelpAPI.Infrastructure.AssemblyInfoInputs.cache
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infracture\obj\Debug\net8.0\BhuHelpAPI.Infrastructure.AssemblyInfo.cs
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infracture\obj\Debug\net8.0\BhuHelpAPI.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infracture\obj\Debug\net8.0\BhuHelpAPI.Infrastructure.sourcelink.json
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infracture\obj\Debug\net8.0\BhuHelpA.546F5500.Up2Date
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infracture\obj\Debug\net8.0\BhuHelpAPI.Infrastructure.dll
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infracture\obj\Debug\net8.0\refint\BhuHelpAPI.Infrastructure.dll
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infracture\obj\Debug\net8.0\BhuHelpAPI.Infrastructure.pdb
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infracture\obj\Debug\net8.0\BhuHelpAPI.Infrastructure.genruntimeconfig.cache
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infracture\obj\Debug\net8.0\ref\BhuHelpAPI.Infrastructure.dll
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infrastructure\bin\Debug\net8.0\BhuHelpAPI.Infrastructure.deps.json
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infrastructure\bin\Debug\net8.0\BhuHelpAPI.Infrastructure.runtimeconfig.json
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infrastructure\bin\Debug\net8.0\BhuHelpAPI.Infrastructure.dll
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infrastructure\bin\Debug\net8.0\BhuHelpAPI.Infrastructure.pdb
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infrastructure\bin\Debug\net8.0\BhuHelpAPI.Domain.dll
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infrastructure\bin\Debug\net8.0\BhuHelpAPI.Domain.pdb
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infrastructure\obj\Debug\net8.0\BhuHelpAPI.Infrastructure.csproj.AssemblyReference.cache
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infrastructure\obj\Debug\net8.0\BhuHelpAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infrastructure\obj\Debug\net8.0\BhuHelpAPI.Infrastructure.AssemblyInfoInputs.cache
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infrastructure\obj\Debug\net8.0\BhuHelpAPI.Infrastructure.AssemblyInfo.cs
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infrastructure\obj\Debug\net8.0\BhuHelpAPI.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infrastructure\obj\Debug\net8.0\BhuHelpAPI.Infrastructure.sourcelink.json
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infrastructure\obj\Debug\net8.0\BhuHelpA.546F5500.Up2Date
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infrastructure\obj\Debug\net8.0\BhuHelpAPI.Infrastructure.dll
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infrastructure\obj\Debug\net8.0\refint\BhuHelpAPI.Infrastructure.dll
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infrastructure\obj\Debug\net8.0\BhuHelpAPI.Infrastructure.pdb
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infrastructure\obj\Debug\net8.0\BhuHelpAPI.Infrastructure.genruntimeconfig.cache
+D:\Project\Bhu\BhuHelpAPI\BhuHelpAPI.Infrastructure\obj\Debug\net8.0\ref\BhuHelpAPI.Infrastructure.dll
+D:\Project\Bhu\With MS SQL Server\BhuHelpAPI\BhuHelpAPI.Infrastructure\bin\Debug\net8.0\BhuHelpAPI.Infrastructure.deps.json
+D:\Project\Bhu\With MS SQL Server\BhuHelpAPI\BhuHelpAPI.Infrastructure\bin\Debug\net8.0\BhuHelpAPI.Infrastructure.runtimeconfig.json
+D:\Project\Bhu\With MS SQL Server\BhuHelpAPI\BhuHelpAPI.Infrastructure\bin\Debug\net8.0\BhuHelpAPI.Infrastructure.dll
+D:\Project\Bhu\With MS SQL Server\BhuHelpAPI\BhuHelpAPI.Infrastructure\bin\Debug\net8.0\BhuHelpAPI.Infrastructure.pdb
+D:\Project\Bhu\With MS SQL Server\BhuHelpAPI\BhuHelpAPI.Infrastructure\bin\Debug\net8.0\BhuHelpAPI.Domain.dll
+D:\Project\Bhu\With MS SQL Server\BhuHelpAPI\BhuHelpAPI.Infrastructure\bin\Debug\net8.0\BhuHelpAPI.Domain.pdb
+D:\Project\Bhu\With MS SQL Server\BhuHelpAPI\BhuHelpAPI.Infrastructure\obj\Debug\net8.0\BhuHelpAPI.Infrastructure.csproj.AssemblyReference.cache
+D:\Project\Bhu\With MS SQL Server\BhuHelpAPI\BhuHelpAPI.Infrastructure\obj\Debug\net8.0\BhuHelpAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Bhu\With MS SQL Server\BhuHelpAPI\BhuHelpAPI.Infrastructure\obj\Debug\net8.0\BhuHelpAPI.Infrastructure.AssemblyInfoInputs.cache
+D:\Project\Bhu\With MS SQL Server\BhuHelpAPI\BhuHelpAPI.Infrastructure\obj\Debug\net8.0\BhuHelpAPI.Infrastructure.AssemblyInfo.cs
+D:\Project\Bhu\With MS SQL Server\BhuHelpAPI\BhuHelpAPI.Infrastructure\obj\Debug\net8.0\BhuHelpAPI.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Project\Bhu\With MS SQL Server\BhuHelpAPI\BhuHelpAPI.Infrastructure\obj\Debug\net8.0\BhuHelpAPI.Infrastructure.sourcelink.json
+D:\Project\Bhu\With MS SQL Server\BhuHelpAPI\BhuHelpAPI.Infrastructure\obj\Debug\net8.0\BhuHelpA.546F5500.Up2Date
+D:\Project\Bhu\With MS SQL Server\BhuHelpAPI\BhuHelpAPI.Infrastructure\obj\Debug\net8.0\BhuHelpAPI.Infrastructure.dll
+D:\Project\Bhu\With MS SQL Server\BhuHelpAPI\BhuHelpAPI.Infrastructure\obj\Debug\net8.0\refint\BhuHelpAPI.Infrastructure.dll
+D:\Project\Bhu\With MS SQL Server\BhuHelpAPI\BhuHelpAPI.Infrastructure\obj\Debug\net8.0\BhuHelpAPI.Infrastructure.pdb
+D:\Project\Bhu\With MS SQL Server\BhuHelpAPI\BhuHelpAPI.Infrastructure\obj\Debug\net8.0\BhuHelpAPI.Infrastructure.genruntimeconfig.cache
+D:\Project\Bhu\With MS SQL Server\BhuHelpAPI\BhuHelpAPI.Infrastructure\obj\Debug\net8.0\ref\BhuHelpAPI.Infrastructure.dll
